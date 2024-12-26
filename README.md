@@ -17,9 +17,8 @@ This assignment applies statistical methods and data visualization techniques to
    - **Sampling Method**: Simple random sampling.
    - 
    - **Gender Ratio Calculation**:
-     \[
-     \text{Gender Ratio (Male or Female)} = \frac{\text{Count of Gender in Sample}}{\text{Total Count in Sample}} \times 100
-     \]
+     ![image](https://github.com/user-attachments/assets/041b51fc-3d80-433b-b0d1-8f0c4db23457)
+
 
    - **Example (Sample 1, Males)**:
      \[
