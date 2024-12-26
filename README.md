@@ -15,7 +15,7 @@ This assignment applies statistical methods and data visualization techniques to
      - Sample 1: 55 students (68% males, 32% females).
      - Sample 2: 49 students (65% males, 35% females).
    - **Sampling Method**: Simple random sampling.
-   - 
+     
    - **Gender Ratio Calculation**:
 ![image](https://github.com/user-attachments/assets/7b340fe9-e43a-4484-8659-c036067d8d6a)
 
@@ -42,10 +42,10 @@ This assignment applies statistical methods and data visualization techniques to
      - Showcased the gender distribution:
        - Male#1: 37 (36%), Male#2: 32 (31%)
        - Female#1: 18 (17%), Female#2: 17 (16%).
-       - 
+         
    - **Bar Graph**:
      - Compared counts of males and females in both samples.
-     - 
+       
    - **Boxplots**:
      - **Comparison 1**: Male weights in Sample 1 vs. Sample 2.
      - **Comparison 2**: Male vs. Female weights in both samples.
