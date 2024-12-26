@@ -17,41 +17,23 @@ This assignment applies statistical methods and data visualization techniques to
    - **Sampling Method**: Simple random sampling.
    - 
    - **Gender Ratio Calculation**:
-     ![image](https://github.com/user-attachments/assets/041b51fc-3d80-433b-b0d1-8f0c4db23457)
+![image](https://github.com/user-attachments/assets/7b340fe9-e43a-4484-8659-c036067d8d6a)
 
-
-   - **Example (Sample 1, Males)**:
-     \[
-     \text{Male Ratio} = \frac{37}{55} \times 100 = 67.27\%
-     \]
 
 
 2. **Statistical Analysis**:
 
    - **Mean Weight Calculation**:
-     \[
-     \text{Mean Weight} = \frac{\text{Total Weight of Students}}{\text{Number of Students}}
-     \]
-     - Sample 1 (Males): \( \text{Mean} = \frac{5274.77}{37} = 142.56 \, \text{lbs} \)
-     - Sample 2 (Males): \( \text{Mean} = \frac{4431.42}{32} = 138.48 \, \text{lbs} \)
+     ![image](https://github.com/user-attachments/assets/af650348-4e5c-41a2-a83a-4269cadaaf91)
+
 
    - **Standard Deviation**:
-     \[
-     s = \sqrt{\frac{\sum(x_i - \bar{x})^2}{n - 1}}
-     \]
-     - Where:
-       - \( x_i \): Each data point
-       - \( \bar{x} \): Mean
-       - \( n \): Number of data points
-     - Standard Deviation:
-       - Sample 1: \( 20.75 \)
-       - Sample 2: \( 18.06 \)
+   ![image](https://github.com/user-attachments/assets/9c41c9ac-3fdb-45af-9f0f-0e2f4eaaa106)
+
 
    - **Weight Range (Percentage of Students)**:
-     \[
-     \text{Percentage} = \frac{\text{Count of Students in Range}}{\text{Total Students}} \times 100
-     \]
-     - \( \text{Percentage} = \frac{57}{104} \times 100 = 54.8\% \)
+   ![image](https://github.com/user-attachments/assets/7f35e596-b70c-4779-831c-749ca03be5c5)
+
 
 
 3. **Visualizations**:
